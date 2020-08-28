@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    toy-robot-simulator (0.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  toy-robot-simulator (~> 0.0.3)
+
+BUNDLED WITH
+   1.17.2
